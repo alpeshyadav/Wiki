@@ -1,1 +1,2 @@
-# A wikipedia-like online encyclopedia
+# Wiki
+A wikipedia-like online encyclopedia
